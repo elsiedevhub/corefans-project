@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+    --font-inter: "Inter", serif;
+  }
+
+  @theme {
+    --color-regal-white: #F5F5F5; 
+    --color-regal-blacl: #667085;
+    --color-regal-orange: #F18B1B;
+    --color-dark-orange: #E52053;
+    --color-brand-gray: #667085;
+    --color-brand_border: #D0D5DD;
+    --color-hover_1: #F18B1B;
+    --color-hover_2: #E52053;
+    --color-bg_color:#1D2939
+    --color-footer: #EAECF0;
+    --color-text-color: #101828;
+    --color-faq-gray: #344054;
+}
+  
